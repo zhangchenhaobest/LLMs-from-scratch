@@ -1,3 +1,29 @@
+# LLMs-from-scratch
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 PyTorch 从零逐步实现类 ChatGPT 大模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Build a Large Language Model (From Scratch)
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
